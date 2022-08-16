@@ -8,7 +8,7 @@ Computers store data in the form of numbers, But unlike humans, they do not have
 
 So how do they count? Well, computers have something called ***transistors***. Transistors have ***two*** states. "On" or "Off".
 
-You can image "Off" as 0, and "On" as 1.
+You can imagine "Off" as 0, and "On" as 1.
 
 Then how do computers count past 1?
 
